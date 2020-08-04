@@ -8,6 +8,7 @@
     "serve": "vue-cli-service serve",
     "test": "vue-cli-service build --mode test",
     "build": "vue-cli-service build",
+    "report": "vue-cli-service build --report",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {

@@ -1,23 +1,30 @@
 # vue-cli4-mobile-module
+```
 基于vue-cli4 router axios vuex vant-ui less配置的移动端项目模板（自用）
+```
 
-## Project setup
+## 安装
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 启动
 ```
 npm run dev
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 打包
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### 格式化
 ```
 npm run lint
+```
+
+### 分析图
+```
+npm run report
 ```
